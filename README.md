@@ -1,3 +1,5 @@
+# Run, bot, run! 🤖
+
 This cute little robot game was the final project of a open university Python course, which was my first dive into programming beyond excel formulas and VBA scripts. The task was to create a game using the given assets (monster, coin, robot, door) and the pygame library.
 
 **The task is simple - collect all the coins to open the door and escape before the monster catches you. As the levels increase, you have more randomly generated walls to dodge (that the monster can just float through!) and the changing background brightness also provides an extra challenge. Give it a try - all you need to do is download the repo and run the python file!**
